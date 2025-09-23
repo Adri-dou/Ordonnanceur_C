@@ -4,9 +4,8 @@ Ce projet implémente un simulateur d'ordonnancement temps réel en langage C, p
 
 ## Objectifs
 
-- **Ex 1** : Vérification de faisabilité avec l'algorithme HPF (Highest Priority First)
-- **Ex 2** : Interface de saisie pour définir des jeux de tâches personnalisés
-- **Ex 3** : Comparaison d'algorithmes d'ordonnancement (HPF, RM, DM)
+- **Ex 1** : Vérification de faisabilité et comparaison d'algorithmes d'ordonnancement (HPF, RM, DM)
+- **Ex 2** : Simulation d'un ordonnanceur EDF
 
 ## Architecture du Programme
 
